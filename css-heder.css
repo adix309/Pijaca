@@ -1,0 +1,17 @@
+.heder{
+    background-color: black;
+    height: 8rem;
+    color: red;
+    margin: 0px;
+    width: 100%;
+}
+.pre-heder{
+    background-color: rgb(142, 142, 220);
+    height: 3rem;
+}
+.left{
+    width: 5px;
+    height: 5px;
+    margin-left: 10px;
+
+}
