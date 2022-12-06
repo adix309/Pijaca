@@ -1,17 +1,91 @@
 .heder{
-    background-color: black;
-    height: 8rem;
-    color: red;
+    
+    height: 9rem;
     margin: 0px;
     width: 100%;
+    text-align: center;
+    
 }
 .pre-heder{
-    background-color: rgb(142, 142, 220);
-    height: 3rem;
+    background-color: rgb(166, 166, 242);
+    max-width: 100%;
+    height: 30%;
+}
+.pre-heder a {
+    color: rgb(248, 6, 6);
+}
+
+.left-pre-heder{
+    font-size:inherit;
+    max-width: 50%;
+    display: inline;
+    
+    
+    
+    
+}
+
+.right-pre-heder {
+    max-width: 50%;
+    display: inline;
+
+}
+
+a{
+    text-decoration: none;
+   
+}
+
+.main-heder{
+    height: 70%;
+    margin-bottom: 10px;
+    
+    
+    
+   
+    
+}
+.middle{
+    display: inline;
+    margin-bottom: 10px;
+    margin-left: 20%;
+    margin-right: 10%;
+    
 }
 .left{
     width: 5px;
     height: 5px;
     margin-left: 10px;
+    max-width: 35%;
+    display: inline;
+    margin-bottom: 10px;
 
 }
+.right{
+    display:inline;
+    margin-bottom: 10px;
+}
+.logo{
+    width: 13rem;
+}
+
+.Search-bar{
+    width: 30%;
+    
+}
+.cointainer{
+    border: black solid 5px;
+    margin-top: 10px;
+    width: 100%;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 400px;
+    position: relative;
+}
+.category{
+    position:absolute;
+    border: black solid 5px;;
+    width: 30%;
+    
+}
+
