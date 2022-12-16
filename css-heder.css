@@ -58,14 +58,14 @@ body{
     width: 7rem;
     position: absolute;
     top: 1.5rem;
-    border-radius: 2rem;/*ovo mora s procentima*/
+    border-radius: 2rem;
 }
 .action-buttons {
     /*position: absolute;
     right: 20rem;
     bottom: 0;*/
     padding-right: 11rem;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     display: flex;
 }
 
