@@ -26,7 +26,7 @@ body{
 }
 
 .main-heder {
-    padding: 1rem 5% 1rem 12%;
+    padding: 1rem 5rem 1rem 12rem;
     background: #a3b7ca;
     /*position: relative;*/
 
@@ -58,14 +58,14 @@ body{
     width: 7rem;
     position: absolute;
     top: 1.5rem;
-    border-radius: 50%;
+    border-radius: 2rem;
 }
 .action-buttons {
     /*position: absolute;
     right: 20rem;
     bottom: 0;*/
     padding-right: 11rem;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     display: flex;
 }
 
@@ -80,10 +80,10 @@ body{
 }
 .outer-container{
     box-sizing: border-box;
-    width:80%;
+    width:76rem;/* bilo jednostavno stavit 80% 10% 10%*/
     height: 30rem;
-    margin-right: 10%;
-    margin-left: 10%;
+    margin-right: 9rem;
+    margin-left:  9rem;
     
     /*background-color: lightcoral;*/
 
